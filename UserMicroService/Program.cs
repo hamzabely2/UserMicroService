@@ -1,4 +1,5 @@
 using Ioc;
+using Ioc.Test;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -6,12 +7,25 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 IConfiguration configuration = builder.Configuration;
 
-// Add services to the container.
-builder.Services.ConfigureDBContext(configuration);
-builder.Services.ConfigureInjectionDependencyRepository();
-builder.Services.ConfigureInjectionDependencyService();
-builder.Services.AddHttpContextAccessor();
 
+if (builder.Environment.IsEnvironment("Test"))
+{
+    // Configure Database connection
+    builder.Services.ConfigureDBContextTest();
+
+    // Dependency Injection
+    builder.Services.ConfigureInjectionDependencyRepositoryTest();
+    builder.Services.ConfigureInjectionDependencyServiceTest();
+}
+else
+{
+    // Configure Database connection
+    builder.Services.ConfigureDBContext(configuration);
+
+    // Dependency Injection
+    builder.Services.ConfigureInjectionDependencyRepository();
+    builder.Services.ConfigureInjectionDependencyService();
+}
 //  Adding Authentication
 builder.Services.AddAuthentication(options =>
 {

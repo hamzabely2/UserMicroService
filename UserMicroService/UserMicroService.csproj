@@ -18,6 +18,7 @@
     <ProjectReference Include="..\Business\Model\Model.csproj" />
     <ProjectReference Include="..\Business\Service.Interface\Service.Interface.csproj" />
     <ProjectReference Include="..\Data\Entity\Entity.csproj" />
+    <ProjectReference Include="..\Ioc\Ioc.Test\Ioc.Test.csproj" />
     <ProjectReference Include="..\Ioc\Ioc\Ioc.csproj" />
   </ItemGroup>
 

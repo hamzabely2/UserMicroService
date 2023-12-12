@@ -64,3 +64,6 @@ C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\ob
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\obj\Debug\net6.0\UserMicroService.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\obj\Debug\net6.0\UserMicroService.genruntimeconfig.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\obj\Debug\net6.0\ref\UserMicroService.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\bin\Debug\net6.0\Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\UserMicroService\bin\Debug\net6.0\Ioc.Test.pdb
