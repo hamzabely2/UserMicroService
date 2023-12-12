@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gaU3pB4/xQwZnr3u4FCWoPplqbRBpBAt1WG+M70NpiWLElJ7CcnujzObNMTIAo7a8JsIGLECzT23Mcvdavf/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\UserMicroService\\Business\\Service.Interface\\Service.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\bin\Debug\net6.0\Test.Common.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\bin\Debug\net6.0\Test.Common.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\bin\Debug\net6.0\Test.Common.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\refint\Test.Common.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\Test.Common.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\UserMicroService\Test\Test.Common\obj\Debug\net6.0\ref\Test.Common.dll
